@@ -22,7 +22,7 @@
 | openseek-5 | semeval_2018_task1_tweet_sadness_detection |  30K  | 500 | 
 | openseek-6 | mnli_same_genre_classification |  30K  | 500 | 
 | openseek-7 | jeopardy_answer_generation_all |  30K  | 500 | 
-| openseek-8 | kernel_genernation |  15K  | 166 | 
+| openseek-8 | kernel_genernation |  16K  | 166 | 
 
 ---
 
