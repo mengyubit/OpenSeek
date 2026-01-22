@@ -23,8 +23,6 @@ torch
 flagScale
 ```
 
-On NVIDIA platforms, it is recommended to create the environment using: `cd src && bash create_env_nvidia.sh`
-
 ### 2. Download Model Weights
 
 ```bash

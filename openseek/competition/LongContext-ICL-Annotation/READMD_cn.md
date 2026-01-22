@@ -21,8 +21,6 @@ torch
 flagScale
 ```
 
-推荐在NVIDIA平台使用 `cd src && bash create_env_nvidia.sh` 创建环境。
-
 ### 2. 下载模型权重
 ```bash
 hf download Qwen/Qwen3-4B --local-dir Qwen3-4B
